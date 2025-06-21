@@ -7,3 +7,5 @@ Thumbs.db
 
 # app build result or binary
 api-contact-form
+api-contact-form.exe
+*.exe
